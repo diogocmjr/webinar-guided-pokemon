@@ -33,8 +33,10 @@ body {
 }
 
 .poke {
-    width: 250px;
-    height: 250px;
-    display: flex;
-    align-items: center;
+    width: 280px;
+    height: 280px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
 }
